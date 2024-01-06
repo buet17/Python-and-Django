@@ -32,6 +32,7 @@ my_def()
 my_def("Canada")
 my_def("USA")
 my_def("India")
+my_def("PK")
 
 
 # echo "# Python-and-Django" >> README.md
